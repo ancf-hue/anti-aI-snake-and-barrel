@@ -11,8 +11,6 @@
 
 # 🐍🛢️ Анти ИИ: Змея и Бочка (Anti-AI: Snake and Barrel)
 
-> **Бесплатный социальный офлайн-проект** в рамках инициативы «Anti-AI Shield» и серии «25 игр про Змею».  
-> Развивает реакцию, точность мышления и цифровую осознанность через увлекательную 3D-механику.
 
 ![Статус](https://img.shields.io/badge/Status-Offline%20Ready-brightgreen)
 ![Технологии](https://img.shields.io/badge/Stack-HTML5%20%7C%20Three.js%20%7C%20Vanilla%20JS-blue)
